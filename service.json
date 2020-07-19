@@ -1,0 +1,8 @@
+{
+    "service-name": "com.turing.atlasec",
+
+    "install": {
+        "osx": "com.turing.atlasec.plist",
+        "raspberry_pi": "com.turing.atlasec.service"
+    }
+}
