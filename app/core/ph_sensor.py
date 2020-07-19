@@ -8,7 +8,7 @@ class PHSensor(object):
     _long_timeout = 1.5
     _short_timeout = .5
     _default_bus = 1
-    _default_address = 98
+    _default_address = 54
     _current_addr = _default_address
 
     _file_read = None
