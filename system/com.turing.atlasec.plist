@@ -10,17 +10,17 @@
 		<true/>
 	</dict>
 	<key>Label</key>
-	<string>com.turing.atlasph</string>
+	<string>com.turing.atlasec</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/bin/bash</string>
-		<string>/Users/andres/projects/turing/services/atlasph/boot.sh</string>
+		<string>/Users/andres/projects/turing/services/atlasec/boot.sh</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
 	<key>StandardErrorPath</key>
-	<string>/tmp/com.turing.atlasph.err</string>
+	<string>/tmp/com.turing.atlasec.err</string>
 	<key>StandardOutPath</key>
-	<string>/tmp/com.turing.atlasph.out</string>
+	<string>/tmp/com.turing.atlasec.out</string>
 </dict>
 </plist>
