@@ -21,7 +21,7 @@ class CoreService(object):
 
     def __init__(self):
         self._ph = PHSensor()
-        self._ph._set_i2c_address(84)
+        self._ph._set_i2c_address(54)
 
     def start(self):
         self._comm_client = mqtt.Client(
